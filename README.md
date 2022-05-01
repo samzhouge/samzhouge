@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samzhouge
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning k8s
